@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.Form1.resources
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.AssemblyInfo.cs
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\bin\Debug\net6.0-windows\ErrorProviderSample.exe
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\bin\Debug\net6.0-windows\ErrorProviderSample.deps.json
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\bin\Debug\net6.0-windows\ErrorProviderSample.runtimeconfig.json
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\bin\Debug\net6.0-windows\ErrorProviderSample.dll
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\bin\Debug\net6.0-windows\ErrorProviderSample.pdb
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.dll
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\refint\ErrorProviderSample.dll
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.pdb
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ErrorProviderSample.genruntimeconfig.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\ErrorProviderSample\obj\Debug\net6.0-windows\ref\ErrorProviderSample.dll

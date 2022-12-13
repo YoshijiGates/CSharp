@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\bin\Debug\WinFormMVVM.exe.config
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\bin\Debug\WinFormMVVM.exe
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\bin\Debug\WinFormMVVM.pdb
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.Properties.Resources.resources
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.Views.MainView.resources
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.exe
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WinFormMVVM\obj\Debug\WinFormMVVM.pdb
