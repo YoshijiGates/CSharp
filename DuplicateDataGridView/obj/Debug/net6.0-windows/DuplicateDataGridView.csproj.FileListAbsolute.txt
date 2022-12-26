@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\bin\Debug\net6.0-windows\DuplicateDataGridView.exe
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\bin\Debug\net6.0-windows\DuplicateDataGridView.deps.json
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\bin\Debug\net6.0-windows\DuplicateDataGridView.runtimeconfig.json
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\bin\Debug\net6.0-windows\DuplicateDataGridView.dll
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\bin\Debug\net6.0-windows\DuplicateDataGridView.pdb
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.Form1.resources
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.AssemblyInfo.cs
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.dll
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\refint\DuplicateDataGridView.dll
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.pdb
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\DuplicateDataGridView.genruntimeconfig.cache
+C:\Users\user\OneDrive\ドキュメント\GitHub\C#\DuplicateDataGridView\obj\Debug\net6.0-windows\ref\DuplicateDataGridView.dll
