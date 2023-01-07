@@ -1,7 +1,0 @@
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.Form1.resources
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.csproj.GenerateResource.cache
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.AssemblyInfoInputs.cache
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.AssemblyInfo.cs
-C:\Users\user\OneDrive\ドキュメント\GitHub\C#\WebAPITest\obj\Debug\net6.0-windows\WebAPITest.csproj.CoreCompileInputs.cache
