@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 // Disable the warning.
 // ----------------------------------------
-// コピー元のDtoクラスを作成
+// コピー元のDtoクラスを作成 test
 // ----------------------------------------
 var productDto = new ProductDto();
 // 商品ID
