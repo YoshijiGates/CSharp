@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\ドキュメント\\GitHub\\C#\\DiConsoleApp\\DiConsoleApp.csproj": {}
+    "/Users/yoshiharu.kajino/OneDrive/ドキュメント/GitHub/C#/DiConsoleApp/DiConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\ドキュメント\\GitHub\\C#\\DiConsoleApp\\DiConsoleApp.csproj": {
+    "/Users/yoshiharu.kajino/OneDrive/ドキュメント/GitHub/C#/DiConsoleApp/DiConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\ドキュメント\\GitHub\\C#\\DiConsoleApp\\DiConsoleApp.csproj",
+        "projectUniqueName": "/Users/yoshiharu.kajino/OneDrive/ドキュメント/GitHub/C#/DiConsoleApp/DiConsoleApp.csproj",
         "projectName": "DiConsoleApp",
-        "projectPath": "C:\\Users\\user\\OneDrive\\ドキュメント\\GitHub\\C#\\DiConsoleApp\\DiConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\ドキュメント\\GitHub\\C#\\DiConsoleApp\\obj\\",
+        "projectPath": "/Users/yoshiharu.kajino/OneDrive/ドキュメント/GitHub/C#/DiConsoleApp/DiConsoleApp.csproj",
+        "packagesPath": "/Users/yoshiharu.kajino/.nuget/packages/",
+        "outputPath": "/Users/yoshiharu.kajino/OneDrive/ドキュメント/GitHub/C#/DiConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yoshiharu.kajino/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "g6JvbxDtCsR1GlQAMkbUIVs/7pdmVldqViQdVmaZXWmDv+7bH2GAW9UW3KJiWO4H5qHGUIy0KTNbGA8S7bpogQ==",
+  "dgSpecHash": "aCqZIkjrslLTcmIZYjpXhDW5iQSJZV3OarG2xYFy9yXhFjlUeYitIocRDa31XnVBon7eQDF5c/qOzLbN7fGwwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\ドキュメント\\GitHub\\C#\\DiConsoleApp\\DiConsoleApp.csproj",
+  "projectFilePath": "/Users/yoshiharu.kajino/OneDrive/ドキュメント/GitHub/C#/DiConsoleApp/DiConsoleApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "/Users/yoshiharu.kajino/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/yoshiharu.kajino/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
